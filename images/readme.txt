@@ -1,0 +1,1 @@
+This folder will be filled by "yeni_kullanici.py"
